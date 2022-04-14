@@ -1,2 +1,2 @@
-# Smart Scribe - Scriber API
-This API Provides read and write functonality on Scriber module for smart scribe application
+# SmartScribe
+Platform for Smart Scribe application to provide smart subscription capabilities for users
